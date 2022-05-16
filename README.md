@@ -75,4 +75,4 @@ Resulting clusters tree:
 
 ## Licence
 
-See [LICENSE.md](license.md). 
+See [LICENSE.md](LICENSE). 
