@@ -72,6 +72,7 @@ Resulting clusters tree:
 - Any contribution to improve performance and adding more parameters is welcome.
 - Any help to export it as a PyPI index is also welcome.
 - This was originally just something personal done on my free time after graduating in Data Science, so documentation and code is far from perfect.
+- If you find this useful, don't hesitate to give me a star!
 
 ## Licence
 
